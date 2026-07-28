@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-07-28, 11:39 a.m.
+# Submitted   2026-07-28, 11:41 a.m.
 # ──────────────────────────────────────────────────
 
 def is_leap(year):
