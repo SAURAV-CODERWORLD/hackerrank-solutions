@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-07-28, 11:38 a.m.
+# Submitted   2026-07-28, 11:40 a.m.
 # ──────────────────────────────────────────────────
 
 if __name__ == '__main__':
